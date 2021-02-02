@@ -5,6 +5,6 @@ public with sharing class HelloWorld {
 
     //コンストラクタ
     public HelloWorld(){
-        say = 'Hello World feature/test2修正';
+        say = 'Hello World pull request 2';
     }
 }
