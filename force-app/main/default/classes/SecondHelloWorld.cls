@@ -6,5 +6,6 @@ public with sharing class SecondHelloWorld {
     //コンストラクタ
     public SecondHelloWorld(){
         say = 'Hello World pull request test';
+        say = 'Hello World pull request test change after approve';
     }
 }
